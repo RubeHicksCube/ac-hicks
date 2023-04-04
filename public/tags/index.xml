@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Andrew (Colter) Hicks</title>
-    <link>/tags/</link>
+    <link>https://ac-hicks.com/tags/</link>
     <description>Recent content in Tags on Andrew (Colter) Hicks</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <copyright>Copyright [Colter Hicks](https://colterhicks.com)</copyright><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://colterhicks.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;A Colter Hicks Site&lt;/a&gt;</copyright><atom:link href="https://ac-hicks.com/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

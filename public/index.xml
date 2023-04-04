@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Andrew (Colter) Hicks</title>
-    <link>/</link>
+    <link>https://ac-hicks.com/</link>
     <description>Recent content on Andrew (Colter) Hicks</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <copyright>Copyright [Colter Hicks](https://colterhicks.com)</copyright><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://colterhicks.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;A Colter Hicks Site&lt;/a&gt;</copyright><atom:link href="https://ac-hicks.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Me</title>
-      <link>/about/</link>
+      <link>https://ac-hicks.com/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/about/</guid>
-      <description>Download My Resume - Click Me!</description>
+      <guid>https://ac-hicks.com/about/</guid>
+      <description>Download My Resume - Click Me! Overview Hi, my name is Andrew Hicks and I’m a computer networking professional with over 9 years of experience in the field. I currently work as a Systems Administrator in the United States Space Force, where I specialize in Computer Networking and Help Desk IT Support. I proudly serve as an E-5 (Sergeant) in the Space Force, though I started in the Air Force in 2014.</description>
     </item>
     
   </channel>
