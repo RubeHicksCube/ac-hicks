@@ -38,7 +38,8 @@ paginate     = 10
   #
   enableSharingButtons = true
 
-  # favicon = "/images/HyperCubeIcon.png"
+[[params.meta]]
+    favicon = false
 
 [taxonomies]
     category = "blog"
