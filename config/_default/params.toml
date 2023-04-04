@@ -6,8 +6,8 @@
 # https://jpanther.github.io/congo/docs/configuration/#theme-parameters
 
 colorScheme = "congo"
-defaultAppearance = "light" # valid options: light or dark
-autoSwitchAppearance = true
+defaultAppearance = "dark" # valid options: light or dark
+autoSwitchAppearance = false
 
 enableSearch = false
 enableCodeCopy = false
@@ -16,7 +16,7 @@ enableCodeCopy = false
 
 [header]
   layout = "basic" # valid options: basic, hamburger, hybrid, custom
-  # logo = "img/logo.jpg"
+ # logo = "img/HyperCubeIcon.png"
   showTitle = true
 
 [footer]
@@ -26,7 +26,7 @@ enableCodeCopy = false
   showScrollToTop = true
 
 [homepage]
-  layout = "page" # valid options: page, profile, custom
+  layout = "profile" # valid options: page, profile, custom
   showRecent = false
   recentLimit = 5
 
