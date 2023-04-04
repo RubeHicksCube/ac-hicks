@@ -38,9 +38,6 @@ paginate     = 10
   #
   enableSharingButtons = true
 
-[[params.meta]]
-    favicon = false
-
 [taxonomies]
     category = "blog"
     tag      = "tags"
