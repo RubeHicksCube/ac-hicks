@@ -7,7 +7,7 @@ title: "About Me"
 ![Andrew Hicks](/images/Colter-Profile.jpg)
 
 # Overview
-Hi, my name is Andrew Hicks and I’m a computer networking professional with over 9 years of experience in the field. I currently work as a Systems Administrator in the United States Space Force, where I specialize in Computer Networking and Help Desk IT Support. I proudly serve as an E-5 (Sergeant) in the Space Force, though I started in the Air Force in 2014. In my free time, I enjoy riding motorcycles and drawing manga. I’m also an avid tech enthusiast and enjoy taking photos in my spare time. I’m always looking for new challenges and projects to take on, so feel free to get in touch if you have any opportunities you think I might be interested in.
+Hi, my name is Andrew Hicks and I’m a computer networking professional with over 9 years of experience in the field. I currently work as a Systems Administrator in the United States Space Force, where I specialize in Computer Networking and Help Desk IT Support. I proudly serve as an E-5 (Sergeant) in the Space Force, though I started in the Air Force in 2014 and transferred after it was established in 2021. In my free time, I enjoy riding motorcycles and drawing manga. I’m also an avid tech enthusiast and also enjoy taking photos in my spare time. I’m always looking for new challenges and projects to take on, so feel free to get in touch if you have any opportunities you think I might be interested in.
 
 I'm always open to chat, so if you have any questions or comments, please [Click Here](https://colterhicks.com) or tap that button at the top to bring you to my main blog site. Or, hit me up on any of the social media sites on the [Home](/) Page.
 
@@ -23,13 +23,15 @@ I have made a print server for my 3D printer to print and monitor remotely from 
 I use another raspberry pi for various functions, such as network monitoring, a server for my smart home devices, as well as some other home networking services.
 
 #### Web Design
-I drafted this website on a web server using Nginx, PHP, and installed WordPress from home, before publishing it to a hosting service.
+I drafted this website on a web server using Go, Hugo and some coding before publishing it to GitHub/Netlify. You can view the code from my GitHub Profile.
+
+I also have a hosting service where I can publish using WordPress, in which case I stage the site using Nginx, PHP, and serve the site on a home server before publishing publicly. 
 
 #### Home Lab
 I have my home server that hosts a Proxmox hypervisor for various virtual machines and host my NAS, router, data backups, and more.
 
 #### HAM Radio
-I’m currently studying for my Amature Radio Technician License to be used with HAM operators.
+I’m currently studying for my Amature Radio Technician License to be used with HAM operators. This gets me in to the RF field to be more relative to the space industry I work so closely to.
 
 #### IT admin and security
 All of these expand my horizons for professional services and concepts that I would use in my work. Allowing me to test and tinker and enjoy learning new processes.
@@ -38,7 +40,7 @@ All of these expand my horizons for professional services and concepts that I wo
 Outside of tech, I enjoy various other hobbies.
 
 #### Photography
-I have a diploma in photography, where I sometime to photoshoots of events, portraits, or landscapes on some of my adventures.
+I have a diploma in photography, where I sometimes do photoshoots of events, portraits, or landscapes on some of my adventures.
 
 #### Graphic Design / Art
 I wouldn’t really call myself an artist but I like to draw, where I was commissioned as a manga artist for a bit, and some other graphic design.
